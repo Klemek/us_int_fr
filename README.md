@@ -5,6 +5,8 @@ Use `usinfrX.klc` to install this layout on the french variant and `usinenX.klc`
 
 > Unfortunately Windows makes it hard to upgrade an existing layout so I have to increment the version number on each update.
 
+See [this gist](https://gist.github.com/Klemek/bfc376fa9afa84234a1d8b2ed685fffb) for the Linux layout.
+
 ## Differences from US international layout
 
 * (case sensible) `Alt Gr` + 
