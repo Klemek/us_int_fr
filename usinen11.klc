@@ -1,12 +1,12 @@
-KBD	usinfr11	"FR v11 US International - No dead keys"
+KBD	usinen11	"EN v11 US International - No dead keys"
 
 COPYRIGHT	"(c) Klemek"
 
 COMPANY	"Klemek"
 
-LOCALENAME	"fr-FR"
+LOCALENAME	"en-US"
 
-LOCALEID	"0000040c"
+LOCALEID	"00000409"
 
 VERSION	1.0
 
@@ -16,7 +16,7 @@ DESCRIPTIONS
 
 LANGUAGENAMES
 
-0409	French (France)
+0409	English (United States)
 
 SHIFTSTATE
 
