@@ -40,3 +40,7 @@ See [this gist](https://gist.github.com/Klemek/bfc376fa9afa84234a1d8b2ed685fffb)
 ## Layout with `Alt Gr` + `Shift`
 
 ![](https://user-images.githubusercontent.com/12103162/106765468-1ebffe00-6639-11eb-9731-a3f6f9c97ade.png)
+
+## TODO
+
+* bash file for automatic install of linux variant
