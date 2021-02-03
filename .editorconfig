@@ -1,0 +1,8 @@
+[*.klc]
+end_of_line = crlf
+indent_size = 8
+tab_width = 8
+insert_final_newline = true
+indent_style = tab
+charset = utf-8
+trim_trailing_whitespace = true
