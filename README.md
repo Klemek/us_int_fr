@@ -1,6 +1,10 @@
 # us_int_fr
 Alternative US international keyboard layout to write french (make french accents reachable only with `Alt Gr`)
 
+Use `usinfrX.klc` to install this layout on the french variant and `usinenX.klc` for the english variant (does not change the layout but recognized by Windows as a specific language)
+
+> Unfortunately Windows makes it hard to upgrade an existing layout so I have to increment the version number on each update.
+
 ## Differences from US international layout
 
 * (case sensible) `Alt Gr` + 
@@ -17,6 +21,14 @@ Alternative US international keyboard layout to write french (make french accent
   * `Alt Gr` + `.` -> `·`
   * No dead keys for quote and tick
 
+## How to install
+
+1. Install the [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134) (Official link)
+2. Open the `.klc` file with the software
+3. Go to `Project` > `Build DLL and Setup Package`
+4. It'll create an installator in your Documents
+5. Open `setup.exe`
+6. Enjoy
 
 ## Layout with `Alt Gr`
 
